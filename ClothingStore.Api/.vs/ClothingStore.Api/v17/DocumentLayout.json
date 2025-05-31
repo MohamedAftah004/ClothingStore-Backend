@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\applebuy\\Desktop\\Collage\\ClothingStore\\ClothingStore.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6960F6-CAD5-4846-B8AD-A634DF4EF9C5}|ClothingStore.Api.csproj|c:\\users\\applebuy\\desktop\\collage\\clothingstore\\clothingstore.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6960F6-CAD5-4846-B8AD-A634DF4EF9C5}|ClothingStore.Api.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6960F6-CAD5-4846-B8AD-A634DF4EF9C5}|ClothingStore.Api.csproj|c:\\users\\applebuy\\desktop\\collage\\clothingstore\\clothingstore.api\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6960F6-CAD5-4846-B8AD-A634DF4EF9C5}|ClothingStore.Api.csproj|solutionrelative:controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\applebuy\\Desktop\\Collage\\ClothingStore\\ClothingStore.Api\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItemsController.cs",
+              "ToolTip": "C:\\Users\\applebuy\\Desktop\\Collage\\ClothingStore\\ClothingStore.Api\\Controllers\\CartItemsController.cs",
+              "RelativeToolTip": "Controllers\\CartItemsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAHcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:39:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\applebuy\\Desktop\\Collage\\ClothingStore\\ClothingStore.Api\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\applebuy\\Desktop\\Collage\\ClothingStore\\ClothingStore.Api\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "Controllers\\CartController.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAADgv5MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:33:47.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
