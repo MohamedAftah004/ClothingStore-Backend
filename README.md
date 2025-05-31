@@ -147,5 +147,6 @@ Access Swagger: `https://localhost:<port>/swagger`
 ---
 
 ## 📷 API Demo (Swagger UI)
-
+![alt text](https://drive.google.com/file/d/1lo2VtRKSui5C10q_MM_Pgznh_-olcy-u/view)
+![Swagger Screenshot](<img src="https://drive.google.com/file/d/1lo2VtRKSui5C10q_MM_Pgznh_-olcy-u/view" width="350" title="hover text">)
 ![Swagger Screenshot](https://drive.google.com/file/d/1lo2VtRKSui5C10q_MM_Pgznh_-olcy-u/view)
