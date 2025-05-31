@@ -74,7 +74,7 @@ cd ClothingStore
 ### 3. Configure appsettings.json
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=YOUR_SERVER;Database=Ecommerce;Trusted_Connection=True;"
+  "DefaultConnection": "Server=.;Database=Ecommerce;Trusted_Connection=True;"
 }
 ```
 
