@@ -25,7 +25,8 @@ The architecture encourages clean separation of concerns and scalability.
 ├── 📂 ClothingStore.Api         → Main Web API project (entry point)
 ├── 📂 ClothingStore.Business    → Business logic services
 ├── 📂 ClothingStore.DataAccess  → Data access layer, DTOs
-└── 📄 FULLEcommerceScript.sql   → Complete SQL Server database script
+└── 📂 database   → Complete SQL Server database script
+└── 📂 assets
 ```
 
 - **API Layer:** Handles HTTP requests, responses, and routing
